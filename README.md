@@ -8,8 +8,8 @@ and **Data Structures and Algorithms (DSA)**,
 
 💻 *I'm using this repository to document my progress, keep track of my practice exercises, and store my coding projects.* 💻
 
-💯 **What You'll Find Here:  Progress Tracking:**  💯
-*Follow along as I learn and improve my C++ skills, exploring the nuances of OOP and DSA.*
+💯 **What You'll Find Here:  Progress Tracking:**  
+*Follow along as I learn and improve my C++ skills, exploring the nuances of OOP and DSA.* 💯
 
 ✔ **Practice Exercises:** *Access the exercises I'm working on to reinforce my understanding of these concepts.
 Please note that these may not be perfect solutions, but part of my learning process.*
